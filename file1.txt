@@ -3,3 +3,9 @@ New file"
 =======
 "added new line" 
 >>>>>>> feature1
+
+Testing code for demo
+
+added new line for feature 1
+
+
