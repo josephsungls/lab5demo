@@ -3,3 +3,4 @@ New file"
 =======
 "added new line" 
 >>>>>>> feature1
+new update direct
